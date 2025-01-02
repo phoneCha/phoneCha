@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @phoneCha
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Machine Learning
+- My medium blog: https://medium.com/@k19chalisa
 
 
 <!---
